@@ -1,0 +1,15 @@
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\bin\Debug\net6.0\Task2.exe
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\bin\Debug\net6.0\Task2.deps.json
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\bin\Debug\net6.0\Task2.dll
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\bin\Debug\net6.0\Task2.pdb
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.dll
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\refint\Task2.dll
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.pdb
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson5_HW\Lesson5_HW\Task2\obj\Debug\net6.0\ref\Task2.dll
