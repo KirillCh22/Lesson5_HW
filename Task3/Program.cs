@@ -45,8 +45,6 @@ int FindMinRow(int[,] array)
                     result = summa;
                     min_index += 1;
                 }
-
-                
             }
         }
 

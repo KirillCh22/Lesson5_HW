@@ -38,7 +38,7 @@ void PrintArray(int[,] array)
 int CheckMatrix(int[,] array, int NeedRow, int NeedColumn)
 {
     //if 
-    int number = 0;
+    int number = -1;
     for(int i = 0; i < array.GetLength(0); i++)
     {
         for(int j = 0; j < array.GetLength(1); j++)
@@ -49,7 +49,7 @@ int CheckMatrix(int[,] array, int NeedRow, int NeedColumn)
             }
             else if(NeedRow > array.GetLength(0) || NeedColumn > array.GetLength(1))
             {
-                ErorText();
+               // ErorText();
                 break;
             }
         }
@@ -57,10 +57,10 @@ int CheckMatrix(int[,] array, int NeedRow, int NeedColumn)
     return number;
 }
 
-void ErorText()
-{
-    Console.WriteLine("С данной позицией элемента нет в массиве.");
-}
+// void ErorText()
+// {
+//     Console.WriteLine("С данной позицией элемента нет в массиве.");
+// }
 
 
 
@@ -88,7 +88,7 @@ int pos2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine();
 int result = CheckMatrix(array, pos1, pos2);
-Console.Write("Элемент с такой позицией - " + result);
+Console.Write("Элемент с такой позицией: " + result);
 
 
 
